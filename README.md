@@ -1,6 +1,6 @@
 ## Heloo, I’m Musa
 - 👀 I’m interested in ...
-- 🌱 I’m currently Back-end learning 
+- 🌱 I’m currently Front-end learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at this e-mail musatastan1@gmail.com
 
