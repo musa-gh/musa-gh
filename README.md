@@ -4,7 +4,7 @@
 
 I'm Musa from Turkey. I am currently working as a Full-Stack Developer. I am always open to learning new skills
 
-# Skills: REACT / JS / HTML / CSS
+# Skills: REACT / JS / HTML5 / CSS3
 
 - 🔭 I’m currently working on Web Site Design 
 - 🌱 I’m currently learning Python / Django / C# 
