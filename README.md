@@ -1,6 +1,6 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 100%);" src="https://camo.githubusercontent.com/6ce26497c92c1a8d72c8816fc76ed9438cc0e815b73a410895c95634d863ff8d/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="1000" height="400">
 <h1 align="center">Hi 👋, I'm Musa Taştan</h1>
-<h3 align="center">I'm Musa from Turkey and I'm Musa from Turkey and learning to be a Full Stack Developer.I am using HTML,CSS JavaScript and Git.Python,Django,C# next languages</h3>
+<h3 align="center">I'm Musa from Turkey and learning to be a Full Stack Developer.I am using HTML,CSS JavaScript and Git.Python,Django,C# next languages</h3>
 <img align="right" alt="Coding" width="400" src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif">
 
 
