@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musa-gh&label=Profile%20views&color=0e75b6&style=flat" alt="musa-gh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/debrakov" target="blank"><img src="https://img.shields.io/twitter/follow/debrakov?logo=twitter&style=for-the-badge" alt="debrakov" /></a> </p>
 
 - 🌱 I’m currently learning **Python,Django,C#**
 
